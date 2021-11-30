@@ -1,0 +1,11 @@
+,blue_top_player,blue_jng_player,blue_bot_player,blue_sup_player,red_top_player,top_counter_winrate,mid_counter_winrate,jng_counter_winrate,bot_counter_winrate,sup_counter_winrate
+blue_top_player,1.00 ,,,,,,,,,
+blue_jng_player,0.49 ,1.00 ,,,,,,,,
+blue_bot_player,0.44 ,0.46 ,1.00 ,,,,,,,
+blue_sup_player,0.42 ,0.46 ,0.50 ,1.00 ,,,,,,
+red_top_player,0.13 ,0.15 ,0.18 ,0.15 ,1.00 ,,,,,
+top_counter_winrate,0.03 ,0.01 ,0.03 ,0.01 ,0.06 ,1.00 ,,,,
+mid_counter_winrate,0.01 ,0.01 ,0.00 ,0.00 ,0.06 ,0.04 ,1.00 ,,,
+jng_counter_winrate,0.02 ,0.02 ,0.05 ,0.01 ,0.04 ,0.04 ,0.10 ,1.00 ,,
+bot_counter_winrate,0.02 ,0.00 ,0.03 ,0.01 ,0.05 ,0.04 ,0.06 ,0.10 ,1.00 ,
+sup_counter_winrate,0.00 ,0.00 ,0.01 ,0.00 ,0.02 ,0.01 ,-0.01 ,0.06 ,0.11 ,1.00 

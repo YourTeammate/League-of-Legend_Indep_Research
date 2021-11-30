@@ -1,0 +1,13 @@
+varlist,corr
+blue_top_player,1
+blue_jng_player,1
+blue_bot_player,1
+blue_sup_player,1
+red_top_player,1
+top_counter_winrate,1
+mid_counter_winrate,1
+jng_counter_winrate,1
+bot_counter_winrate,1
+sup_counter_winrate,1
+weight,0
+result,0

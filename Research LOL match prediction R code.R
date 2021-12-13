@@ -31,9 +31,9 @@ library(lattice)
 library(caret)
 
 
-fp_train = file.path('E:', 'UC San Diego', 'Research', 'LOL', 'data_transform', 'training_data.csv')
+fp_train = file.path('E:', 'UC San Diego', 'Research', 'LOL', 'League-of-Legend_Indep_Research', 'data_transform', 'training_data.csv')
 
-fp_test = file.path('E:', 'UC San Diego', 'Research', 'LOL', 'data_transform', 'testing_data.csv')
+fp_test = file.path('E:', 'UC San Diego', 'Research', 'LOL', 'League-of-Legend_Indep_Research', 'data_transform', 'testing_data.csv')
 
 # oot fp to be added later
 
@@ -48,7 +48,7 @@ hol_data$weight = rep(1, nrow(hol_data))
 # oot data to be added later
 
 ### varlist csv
-fp_varlist = file.path('E:', 'UC San Diego', 'Research', 'LOL', 'varlist.csv')
+fp_varlist = file.path('E:', 'UC San Diego', 'Research', 'LOL', 'League-of-Legend_Indep_Research', 'varlist.csv')
 varlist = read.csv(fp_varlist)
 
 lower_list = tolower(varlist$varlist)
